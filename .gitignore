@@ -164,3 +164,7 @@ cython_debug/
 
 # Extensions
 README.pdf
+
+# mock files
+src/data_processing/mock_eda.ipynb
+src/data_processing/mock.csv
