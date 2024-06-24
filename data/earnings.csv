@@ -1,4 +1,4 @@
-"height","weight","male","earn","earnk","ethnicity","education","mother_education","father_education","walk","exercise","smokenow","tense","angry","age"
+"height","weight","male","earn","earnk","ethnicity","education","mom_ed","dad_ed","walk","exercise","smoke","tense","angry","age"
 74,210,1,50000,50,"White",16,16,16,3,3,2,0,0,45
 66,125,0,60000,60,"White",16,16,16,6,5,1,0,0,58
 64,126,0,30000,30,"White",16,16,16,8,1,2,1,1,29
